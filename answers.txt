@@ -1,0 +1,5 @@
+temperature ,High more than 102F by thermometer,Moderate 100 to 102F by thermometer,Low 98.6 to 100F by thermometer
+Since how many days,5 days, 1 week,less than 1 week 
+onset,it increases in the night,it increases early in the morning,it increases in the afternoon
+cold,When is it more severe?
+rate,How long does this condition last?

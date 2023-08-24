@@ -1,0 +1,9 @@
+,patterns,responses
+0,"since many days ,how long,days,month,when did,when does this start,since when you are experiencing this,since how long you have,from when you are experiencing this,since how long you have fever,Since how long you have fever?","5 days,1 week,more than 1 week,other"
+1,"temperature,thermometer,Fahrenheit,Celsius,Kelvin,what is the maximum temperature,What was the maximum temperature recorded?","High more than 102F,Moderate 100 to 102F,Low 98.6 to 100F,other"
+2,"What is the duration,time span,period","1 week,more then 1 week,less then 1 week,other"
+3,"On a scale of 1 to 5,scale, would you rate rate,","1,2,3,4,5"
+4,Type of Diabetes,"Type 1 diabetes T1DM,Type 2 diabetes T2DM,Gestational diabetes GDM"
+5,"do you,have you ,have you ever,do you know,when did it start,Do you know how this condition,do you have watery eyes,Have you measured your,Have you had any other,Do you have any  or anything that,Have you been in close contact with people,have you been ,do you have ,do you have running nose,do you have any ,Does your ,does you have ,Do you have any allergies or anything that triggers cough? Please specify,do you have fever,do you have cough,do you have ,do you,do you,","Yes , No"
+6,quality of your ,"productive, wet , dry "
+7,"when does it occur most ,what is the onset,","morning,evening,night"

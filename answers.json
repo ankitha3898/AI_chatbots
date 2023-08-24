@@ -1,0 +1,6 @@
+[{"patterns":['since','long','days','month','when did'],"responses":['5 days','1 week','more than 1 week','other']},
+ {"patterns":['temperature','thermometer','Fahrenheit','Celsius','Kelvin'],"responses":['High more than 102F','Moderate 100 to 102F','Low 98.6 to 100F','other']},
+ {"patterns":['duration','time span','period'],"responses":['1 week','more then 1 week','less then 1 week','other']},
+ {"patterns":['On a scale of 1 to 5','scale','rate'],"responses":['1','2','3','4','5']},
+ {"patterns":['Type of Diabetes'],"responses":['Type 1 diabetes T1DM','Type 2 diabetes T2DM','Gestational diabetes GDM']}]
+ 
